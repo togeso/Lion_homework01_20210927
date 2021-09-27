@@ -480,3 +480,4 @@ Received Import Request.
 Start importing Assets/Script/NPC.cs using Guid(33c2c93d386ab1c4fa71d22cb7dba923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc30c51f7ae84b33912a4f13476c111') in 0.006221 seconds 
   Import took 0.009983 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
